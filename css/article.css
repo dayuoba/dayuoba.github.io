@@ -11,9 +11,11 @@
 }
 .serif {
   font-family: 'Noto Serif', 'Times New Roman', serif;
+  font-family: 'mPlus';
 }
 .sans-serif {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'mPlus';
 }
 .animation,
 .article-container {
